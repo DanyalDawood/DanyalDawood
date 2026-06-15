@@ -2,7 +2,7 @@
 
 AI/ML Engineer | Full Stack Developer
 
-🎓 BS Computer Science @ Lahore Garrison University
+Passionate about Computer Vision, Generative AI, and building intelligent web applications.
 
 ## About Me
 
