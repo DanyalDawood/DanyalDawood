@@ -77,6 +77,6 @@ Full-stack web application with authentication and admin dashboard.
 
 📧 Email: [m.danyal519@gmail.com](mailto:m.danyal519@gmail.com)
 
-🔗 LinkedIn: (https://www.linkedin.com/in/muhammad-danyal-8409b52a5/)
+🔗 LinkedIn: https://www.linkedin.com/in/muhammad-danyal-8409b52a5
 
 💻 GitHub: github.com/DanyalDawood
