@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi, I'm Muhammad Danyal 👋
 
-<!--
-**DanyalDawood/DanyalDawood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer | Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 BS Computer Science @ Lahore Garrison University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Full Stack Development.
+
+Currently working on:
+
+* Terra Vision AI (Final Year Project)
+* AI Image Generation
+* Computer Vision Applications
+* Full Stack Web Applications
+
+## Tech Stack
+
+### Programming Languages
+
+* Python
+* JavaScript
+* C++
+
+### Frontend
+
+* React.js
+* Angular
+* HTML
+* CSS
+* Bootstrap
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* FastAPI
+
+### Databases
+
+* MongoDB
+* PostgreSQL
+* MySQL
+
+### AI / ML
+
+* PyTorch
+* Hugging Face
+* Stable Diffusion
+* LoRA Fine-Tuning
+* Computer Vision
+
+### Tools
+
+* Git
+* GitHub
+* Kaggle
+* Vercel
+
+## Featured Projects
+
+### Terra Vision AI
+
+AI-powered landscape inpainting platform using FastAPI, React, Stable Diffusion, and LoRA Fine-Tuning.
+
+### Smart Attendance System
+
+MERN Stack application for attendance management.
+
+### Movie Listing Platform
+
+Full-stack web application with authentication and admin dashboard.
+
+## Contact
+
+📧 Email: [m.danyal519@gmail.com](mailto:m.danyal519@gmail.com)
+
+🔗 LinkedIn: Add your LinkedIn URL
+
+💻 GitHub: github.com/DanyalDawood
